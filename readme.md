@@ -1,10 +1,9 @@
-# Hello everyone. My name is On.
+# Hello, everyone! My name is On.
 - I am learning to code.
-- My niece is a cat.
 - I like food.
-- I learn (human) languages too, along with history and cultures.
-
-Finally I have my banner now!
+- I learn spoken languages too, along with history and cultures.
+- I like lists.
+- Please feel free to browse my repos for projects, both in programming and spoken languages.
 
 ![header](https://user-images.githubusercontent.com/78128902/165860405-54591b1d-33c3-4ac9-9ad7-b7d53a78d142.png)
 
@@ -12,9 +11,6 @@ Finally I have my banner now!
 
 <p align="center">
 
-
-<a href="https://linkedin.com/in/chungontse18"><img src="https://img.shields.io/badge/-On%20Tse%20-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:cotse900@gmail.com"><img src="https://img.shields.io/badge/-cotse900@gmail.com-grey?style=flat&logo=Gmail&logoColor=red"/></a>
 </p>
 <p align="left">
 <a href="https://github.com/cotse900">
